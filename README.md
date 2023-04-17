@@ -3,8 +3,8 @@ Proyecto Integrador de la materia
 
 ## Integrantes:
 
-Matias Humaran
-Carlos Nahuel Barrios
+**Matias Humaran**
+**Carlos Nahuel Barrios**
 --- 
 
 ## Docente
