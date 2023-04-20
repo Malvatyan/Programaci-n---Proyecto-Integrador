@@ -6,6 +6,7 @@ Proyecto Integrador de la materia
 -**Matias Humaran**
 -**Carlos Nahuel Barrios**
 -**Jose Augusto Orsili**
+-**Ignacio German Suarez Zarate**
 
 ## Docente
 
