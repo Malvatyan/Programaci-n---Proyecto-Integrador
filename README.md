@@ -3,10 +3,10 @@
 
 ## Integrantes:
 
-- **Matias Humaran**
-- **Carlos Nahuel Barrios**
-- **Jose Augusto Orsili**
-- **Ignacio German Suarez Zarate**
+- **Matias Humaran** [Ver Github](https://github.com/Malvatyan)
+- **Carlos Nahuel Barrios** [Ver Github](https://github.com/nahuel276)
+- **Jose Augusto Orsili** [Ver Github](https://github.com/joseorsili)
+- **Ignacio German Suarez Zarate** [Ver Github](https://github.com/suarezignacio)
 
 ## Docente
 
