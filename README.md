@@ -1,7 +1,12 @@
 <img src="https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/proyecto-1-grupo-01/blob/master/imagenes/logo2.png" align="left" height="300">
 
 # Proyecto Integrador - TST - 2023
-- **De Programación Base de Datos y Ética y Deontología**
+
+## Materías:
+
+- **Programación**
+- **Base de datos**
+- **Ética y deontología**
 
 ## Integrantes:
 
