@@ -2,11 +2,17 @@
 
 # Proyecto Integrador - TST - 2023
 
-## Materías:
+## Asignaturas:
 
 - **Programación**
 - **Base de datos**
 - **Ética y deontología**
+
+## Docentes
+
+- **Lanfranco Lisandro** 
+- **Kevin Arce Kessler**
+- **Farini Natalia Desirée**
 
 ## Integrantes:
 
@@ -15,11 +21,6 @@
 - **Jose Augusto Orsili** [Ver Github](https://github.com/joseorsili)
 - **Ignacio German Suarez Zarate** [Ver Github](https://github.com/suarezignacio)
 
-## Docentes
-
-- **Kevin Arce Kessler**
-- **Farini Natalia Desirée**
-- **Lanfranco Lisandro**
 
 ## Año
 - **2023**
